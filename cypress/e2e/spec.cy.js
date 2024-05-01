@@ -1,4 +1,4 @@
-const url = ''
+const url = 'https://ashura-senpai.github.io/prova-programacao-web'
 
 const apiUrl = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados'
 
